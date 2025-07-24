@@ -1,0 +1,6 @@
+creds.json
+data/
+node_modules/
+screen/screen_current.svg
+package.json
+package-lock.json
